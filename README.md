@@ -38,7 +38,7 @@ CC98 向用户开放API，极大地方便了该程序的开发。
 
 [方糖泡泡 Server酱](http://sc.ftqq.com/3.version)
 
-###Github
+### Github
 
 [getCC98ComputerDigitalBoard](https://github.com/vinci7/getCC98ComputerDigitalBoard)
 
