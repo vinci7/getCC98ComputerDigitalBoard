@@ -16,6 +16,8 @@ CC98 向用户开放API，极大地方便了该程序的开发。
 
 30000次/天的免费请求限额把萌新喂得饱饱的。
 
+在LeanCloud控制台建立新的应用，在设置中查看应用appId和masterKey填写入程序开头的配置中。
+
 [LeanCloud](https://leancloud.cn)
 
 [LeanCloud Python SDK 安装指南](https://leancloud.cn/docs/sdk_setup-python.html)
@@ -35,6 +37,8 @@ CC98 向用户开放API，极大地方便了该程序的开发。
 ### 微信实时提醒
 
 基于 `方糖泡泡 Server酱` 的服务
+
+通过GitHub登陆Server酱，记录SCKEY填入程序开头的配置中。
 
 [方糖泡泡 Server酱](http://sc.ftqq.com/3.version)
 
